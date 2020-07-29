@@ -1,0 +1,35 @@
+﻿.bg-blue {
+    background-color: #37517E
+}
+.btn-primary {
+    background-color: #37517E;
+    border-color: #00b9ff;
+    color: #00b9ff;
+}
+.btn-primary:hover {
+    background-color: #00b9ff;
+    color: white;
+    border-color: #00b9ff;
+}
+.btndp {
+    border: none;
+    background-color: #e9ecef;
+}
+.custom-select-sm{
+    border-radius:.25rem;
+    border:none;
+}
+
+.btn{
+    border-radius:1.5rem;
+}
+.wrapper{
+    padding:15px;
+}
+
+a{
+    color: #00b9ff;
+}
+a:hover{
+    color:white;
+}

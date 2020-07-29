@@ -1,0 +1,9 @@
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\bin\Debug\netcoreapp3.1\TransferDin.Repository.deps.json
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\bin\Debug\netcoreapp3.1\TransferDin.Repository.dll
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\bin\Debug\netcoreapp3.1\TransferDin.Repository.pdb
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\obj\Debug\netcoreapp3.1\TransferDin.Repository.csprojAssemblyReference.cache
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\obj\Debug\netcoreapp3.1\TransferDin.Repository.csproj.CoreCompileInputs.cache
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\obj\Debug\netcoreapp3.1\TransferDin.Repository.AssemblyInfoInputs.cache
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\obj\Debug\netcoreapp3.1\TransferDin.Repository.AssemblyInfo.cs
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\obj\Debug\netcoreapp3.1\TransferDin.Repository.dll
+D:\Projetos\Pessoal\TransferDin\TransferDin.Repository\obj\Debug\netcoreapp3.1\TransferDin.Repository.pdb
